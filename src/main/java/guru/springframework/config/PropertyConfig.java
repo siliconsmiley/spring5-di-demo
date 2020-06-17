@@ -7,6 +7,9 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.PropertySource;
 import org.springframework.context.support.PropertySourcesPlaceholderConfigurer;
 
+/**
+ * mhw
+ */
 @Configuration
 @PropertySource("classpath:datasource.properties")
 public class PropertyConfig {
