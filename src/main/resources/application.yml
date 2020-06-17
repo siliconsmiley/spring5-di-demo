@@ -1,0 +1,5 @@
+guru:
+  jms:
+    username: siliconsmiley
+    password: notPass
+    url: yamlUrl

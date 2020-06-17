@@ -1,0 +1,36 @@
+# this is a comment
+
+name: Matt
+
+names:
+  - John
+  - Paul
+  - Ringo
+
+pound_sign: "#"
+
+book:
+  author: Joe Author
+  publisher: book publisher
+
+truth: yes
+
+another_truth: True
+
+more_true: true
+
+false: no #No, false, FALSE
+
+string_val: "This is it's quote"
+
+colon_String: "My courses: one two three"
+
+include_new_lines: |
+  this is line one
+  this is line two
+  this is line three
+
+ignore_new_lines: >
+  this is
+  all just
+  one string
